@@ -1,3 +1,5 @@
+time to complete: 1hr 16min
+
 html-css-assessment
 ===================
 

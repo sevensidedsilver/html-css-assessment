@@ -1,5 +1,5 @@
 main {
-  background: url("/img/main-bg.jpeg");
+  background: url("https://images.unsplash.com/photo-1465326117523-6450112b60b2?ixlib=rb-0.3.5&q=100&fm=jpg&crop=entropy&cs=tinysrgb&s=fa106f0e51da75e139209617ff66b2f0");
   background-size: cover;
   height: 100vh;
   font-family: 'Maven Pro', sans-serif;
